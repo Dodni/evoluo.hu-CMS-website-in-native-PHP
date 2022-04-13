@@ -1,0 +1,1 @@
+<h1 style="margin: 20px;">Köszönjük! Az új blog feldolgozásra került!</h1>
